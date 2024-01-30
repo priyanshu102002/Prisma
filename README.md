@@ -18,19 +18,23 @@ Before you begin, ensure you have the following installed:
 
 ## Clone this repository
 
-```bash
+-   First, clone this repository to your local machine:
+
+    ```bash
     git clone https://github.com/priyanshu102002/Prisma.git
-```
--  Then, navigate to the project folder:
-```bash
+    ```
+
+-   Then, navigate to the project folder:
+
+    ```bash
     cd Prisma
-```
-- Next, install the dependencies:
-```bash
+    ```
+
+-   Next, install the dependencies:
+
+    ```bash
     npm install
-```
-
-
+    ```
 
 ## Installation and Setup for New Project
 
