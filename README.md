@@ -1,6 +1,12 @@
 # Getting Started with Prisma
 
-This repository contains the source code for the [Getting Started with Prisma](https://www.prisma.io/docs/getting-started/quickstart) Tech Talk.
+This repository contains the source code for the [Getting Started with Prisma](https://www.prisma.io/docs/getting-started/quickstart) .
+
+## Introduction
+
+Prisma is a database toolkit that consists of these tools: Prisma Client, Prisma Migrate, and Prisma Studio. Prisma Client is an auto-generated and type-safe query builder for Node.js and TypeScript.
+
+Prisma Migrate is a declarative data modeling and migration system. Prisma Studio is a visual editor for your database.
 
 ## Prerequisites
 
@@ -55,3 +61,13 @@ Before you begin, ensure you have the following installed:
     ```bash
     npx ts-node script.ts
     ```
+
+8.  Finally, open the database with the following command:
+
+    ```bash
+    npx prisma studio
+    ```
+
+## Resources
+
+-   [Prisma Docs](https://www.prisma.io/docs/)
